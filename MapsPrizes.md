@@ -98,7 +98,7 @@
 	Ação: Remove 1 tile de vegetação: seu dono recebe 23MCr.
 	Flavor: Quem se especializa em destruir encontra grandes dificuldade em criar.
 
-* Atsui Denki Nuclear Fusion Technology (Energy)(Energy)
+* (熱電気) Netsudenki Nuclear Fusion Technology (Energy)(Energy)
 	42MCr + [1xEnergy_Production]
 	Efeito: Você pode converter calor em energia, a uma taxa de 2 de calor para 1 de energia.
 
