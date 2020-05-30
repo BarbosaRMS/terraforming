@@ -77,8 +77,9 @@
 	Ação: (Adicione um marcador de mutação nesta carta, ou remova três marcadores de mutação: adicione um animal a uma carta.)
 	
 * Ecolog (Space)(Plant)
-	xxMCr
-	???
+	45MCr+(1 produção de planta) + 2 titânios
+	Efeito : Ao jogar uma carta de evento espacial, você ganha 2 plantas.
+	Flavor: Com a Terra superpopulada e sem recursos, recentes descobertas da existência de vida em asteróides se tornaram a luz no fim do túnel. A Ecolog quer usar seus conhecimentos científicos não apenas para minerar os asteroides, mas também para acelerar a terraformação de Marte. "O tempo é essencial, não podemos esperar séculos para aliviar a situação da Terra."
 
 * Petrus Loans & Investiments (Earth)
 	38MCr
@@ -122,3 +123,4 @@
 * Ares Dreamscapes
 	38MCr + 1[cidade]
 	Efeito: Projeto padrão de cidade custa 3MCR a menos. Toda vez que um jogador colocar um oceano ao lado de uma cidade sua, ganhe 2MCr.
+	Flavor: As grandes empreiteiras viram em Marte uma grande oportunidade de negócios. Com o intuito de tornar Marte o mais novo centro turistico da Galáxia, Ares Dreamscapes não mede esforços em tornar suas cidades o novo sonho de todo terráqueo. "Tornaremos o Planeta Vermelho no Planeta de Negócios".
